@@ -10,6 +10,7 @@ public class Admin extends User {
 	}
 	public void show_member(){
 		System.out.println("Name   "+getName()+"  Email   "+getEmail());
+		System.out.println("Just testing for merger");
 	}
 
 
